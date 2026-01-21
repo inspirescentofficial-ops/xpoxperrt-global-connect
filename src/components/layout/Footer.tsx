@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, MapPin, Linkedin, Twitter, Facebook } from "lucide-react";
+import xpoxperrtLogo from "@/assets/xpoxperrt-logo.png";
 
 const footerLinks = {
   products: [
@@ -28,11 +29,8 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand Column */}
           <div className="space-y-6">
-            <Link to="/" className="flex items-center gap-2">
-              <div className="w-10 h-10 rounded-lg bg-secondary flex items-center justify-center">
-                <span className="text-secondary-foreground font-bold text-lg">X</span>
-              </div>
-              <span className="text-xl font-bold tracking-tight">XPOXPERRT</span>
+            <Link to="/" className="flex items-center">
+              <img src={xpoxperrtLogo} alt="XPOXPERRT" className="h-8 brightness-0 invert" />
             </Link>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
               Your trusted partner in global trade. Delivering quality pharmaceutical, 
@@ -97,14 +95,14 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-secondary" />
-                <a href="tel:+911234567890" className="text-sm text-primary-foreground/70 hover:text-primary-foreground">
-                  +91 123 456 7890
+                <a href="tel:+91-7303082123" className="text-sm text-primary-foreground/70 hover:text-primary-foreground">
+                  Call Us
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-secondary" />
-                <a href="mailto:export@xpoxperrt.com" className="text-sm text-primary-foreground/70 hover:text-primary-foreground">
-                  export@xpoxperrt.com
+                <a href="mailto:connect.xpoxperrt@gmail.com" className="text-sm text-primary-foreground/70 hover:text-primary-foreground">
+                  Email Us
                 </a>
               </li>
             </ul>

@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Menu, X, ChevronDown } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Button } from "@/components/ui/button";
+import xpoxperrtLogo from "@/assets/xpoxperrt-logo.png";
 
 const navigation = [
   { name: "Home", href: "/" },
@@ -33,13 +34,8 @@ export const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-card/95 backdrop-blur-md border-b border-border">
       <nav className="container-wide flex items-center justify-between py-4">
         {/* Logo */}
-        <Link to="/" className="flex items-center gap-2">
-          <div className="w-10 h-10 rounded-lg bg-primary flex items-center justify-center">
-            <span className="text-primary-foreground font-bold text-lg">X</span>
-          </div>
-          <span className="text-xl font-bold text-foreground tracking-tight">
-            XPOXPERRT
-          </span>
+        <Link to="/" className="flex items-center">
+          <img src={xpoxperrtLogo} alt="XPOXPERRT" className="h-8 md:h-10" />
         </Link>
 
         {/* Desktop Navigation */}

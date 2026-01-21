@@ -49,7 +49,7 @@ export const WhyChooseUs = () => {
             Why XPOXPERRT
           </span>
           <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-            The Trusted Name in Export Excellence
+            Trusted Partner in Global Trade
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
             We combine quality, compliance, and reliability to deliver exceptional 
