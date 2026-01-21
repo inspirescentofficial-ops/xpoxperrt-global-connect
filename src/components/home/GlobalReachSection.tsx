@@ -69,7 +69,7 @@ export const GlobalReachSection = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold px-8 h-12">
+              <Button size="lg" variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold px-8 h-12">
                 <MessageCircle className="w-5 h-5 mr-2" />
                 WhatsApp Us
               </Button>

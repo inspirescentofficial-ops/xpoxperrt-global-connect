@@ -29,7 +29,7 @@ export const CTASection = () => {
               </Button>
             </Link>
             <Link to="/products">
-              <Button size="lg" variant="outline" className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold px-8 h-12">
+              <Button size="lg" variant="outline" className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 font-semibold px-8 h-12">
                 View Products
               </Button>
             </Link>
