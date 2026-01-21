@@ -36,13 +36,13 @@ export const CTASection = () => {
           </div>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-primary-foreground/70">
-            <a href="mailto:export@xpoxperrt.com" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
+            <a href="mailto:connect.xpoxperrt@gmail.com" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
               <Mail className="w-5 h-5" />
-              export@xpoxperrt.com
+              Email Us
             </a>
-            <a href="tel:+911234567890" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
+            <a href="tel:+91-7303082123" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
               <Phone className="w-5 h-5" />
-              +91 123 456 7890
+              Call Us
             </a>
           </div>
         </motion.div>

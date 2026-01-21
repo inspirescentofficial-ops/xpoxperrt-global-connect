@@ -103,8 +103,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Phone</h3>
-                    <a href="tel:+911234567890" className="text-muted-foreground text-sm hover:text-secondary transition-colors">
-                      +91 123 456 7890
+                    <a href="tel:+91-7303082123" className="text-muted-foreground text-sm hover:text-secondary transition-colors">
+                      Call Us
                     </a>
                   </div>
                 </div>
@@ -115,8 +115,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Email</h3>
-                    <a href="mailto:export@xpoxperrt.com" className="text-muted-foreground text-sm hover:text-secondary transition-colors">
-                      export@xpoxperrt.com
+                    <a href="mailto:connect.xpoxperrt@gmail.com" className="text-muted-foreground text-sm hover:text-secondary transition-colors">
+                      Email Us
                     </a>
                   </div>
                 </div>
@@ -136,7 +136,7 @@ const Contact = () => {
               </div>
 
               <a
-                href="https://wa.me/911234567890"
+                href="https://wa.me/917303082123"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-3 w-full justify-center py-4 rounded-xl bg-green-500 hover:bg-green-600 text-white font-semibold transition-colors"
