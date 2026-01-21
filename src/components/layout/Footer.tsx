@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import { Mail, Phone, MapPin, Linkedin, Twitter, Facebook } from "lucide-react";
-import xpoxperrtLogo from "@/assets/xpoxperrt-logo.png";
 
 const footerLinks = {
   products: [
@@ -30,7 +29,9 @@ export const Footer = () => {
           {/* Brand Column */}
           <div className="space-y-6">
             <Link to="/" className="flex items-center">
-              <img src={xpoxperrtLogo} alt="XPOXPERRT" className="h-8 brightness-0 invert" />
+              <span className="text-2xl font-bold text-primary-foreground" style={{ fontFamily: 'Comfortaa, cursive' }}>
+                Xpoxperrt
+              </span>
             </Link>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
               Your trusted partner in global trade. Delivering quality pharmaceutical, 
