@@ -53,7 +53,7 @@ export const Footer = () => {
 
           {/* Products */}
           <div>
-            <h3 className="font-semibold mb-6">Our Products</h3>
+            <h3 className="font-semibold mb-6 text-primary-foreground">Our Products</h3>
             <ul className="space-y-3">
               {footerLinks.products.map((link) => (
                 <li key={link.name}>
@@ -70,7 +70,7 @@ export const Footer = () => {
 
           {/* Company */}
           <div>
-            <h3 className="font-semibold mb-6">Company</h3>
+            <h3 className="font-semibold mb-6 text-primary-foreground">Company</h3>
             <ul className="space-y-3">
               {footerLinks.company.map((link) => (
                 <li key={link.name}>
@@ -87,7 +87,7 @@ export const Footer = () => {
 
           {/* Contact */}
           <div>
-            <h3 className="font-semibold mb-6">Contact Us</h3>
+            <h3 className="font-semibold mb-6 text-primary-foreground">Contact Us</h3>
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 mt-0.5 text-secondary" />
