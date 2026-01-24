@@ -90,8 +90,8 @@ export const Footer = () => {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 mt-0.5 text-secondary" />
-              <span className="text-sm text-primary-foreground/70">
-                  Xpoxperrt - 08 Sector 2,<br />Greater Noida, 201306 - India
+                <span className="text-sm text-primary-foreground/70">
+                  Greater Noida - India
                 </span>
               </li>
               <li className="flex items-center gap-3">

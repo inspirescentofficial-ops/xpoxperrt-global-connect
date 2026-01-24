@@ -91,8 +91,7 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold text-foreground mb-1">Address</h3>
                     <p className="text-muted-foreground text-sm">
-                      Xpoxperrt - 08 Sector 2,<br />
-                      Greater Noida, 201306 - India
+                      Greater Noida - India
                     </p>
                   </div>
                 </div>
