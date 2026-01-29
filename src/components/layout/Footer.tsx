@@ -113,7 +113,7 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-primary-foreground/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60">
-            © {new Date().getFullYear()} XPOXPERRT. All rights reserved.
+            © 2023 XPOXPERRT. All rights reserved.
           </p>
           <p className="text-sm text-primary-foreground/60">
             Trusted Partner in Global Trade
