@@ -7,20 +7,44 @@ import agroCategory from "@/assets/agro-category.jpg";
 
 const productCategories = [
   {
-    title: "Rice & Grains",
-    items: ["Basmati Rice", "Non-Basmati Rice", "Wheat", "Maize", "Millets", "Sorghum"],
+    title: "Beverage Products",
+    items: ["Tea (Assam, Darjeeling, Green)", "Coffee Beans / Powder", "Herbal Tea", "Fruit Juice Concentrate", "Soft Drink Concentrate", "Energy Drink Powder", "Milk Powder", "Flavored Syrups", "Coconut Water", "Instant Drink Mixes"],
   },
   {
-    title: "Spices",
-    items: ["Turmeric", "Chili", "Cumin", "Coriander", "Black Pepper", "Cardamom"],
+    title: "Grains & Cereals",
+    items: ["Maize", "Basmati Rice (1121, 1509, Sella, Steam)", "Non-Basmati Rice (IR64, Sona Masuri)", "Wheat Flour / Atta", "Maida / Suji", "Quinoa Seeds"],
   },
   {
-    title: "Pulses & Lentils",
-    items: ["Chickpeas", "Green Lentils", "Red Lentils", "Black Gram", "Kidney Beans"],
+    title: "Pulses & Legumes",
+    items: ["Toor Dal", "Moong Dal", "Chana Dal", "Masoor Dal", "Chickpeas / Kabuli Chana", "Cowpeas (Lobia)", "Peanuts / Groundnut"],
   },
   {
-    title: "Oilseeds & Nuts",
-    items: ["Groundnuts", "Sesame Seeds", "Castor Seeds", "Sunflower Seeds", "Cashews"],
+    title: "Fruits & Dry Fruits",
+    items: ["Banana (Fresh)", "Apple", "Grapes", "Raisins", "Dehydrated Bananas", "Walnut", "Almond", "Cashew", "Coconut"],
+  },
+  {
+    title: "Vegetables (Fresh / Dried / Frozen)",
+    items: ["Onion (Fresh & Dried)", "Onion Powder", "Garlic Powder", "Ginger & Ginger Powder", "Green & Red Chilli", "Dried Vegetables", "Dehydrated Vegetables", "Frozen Veggies"],
+  },
+  {
+    title: "Spices & Seeds",
+    items: ["Turmeric", "Black Pepper", "Cloves", "Nutmeg", "Cardamom", "Fenugreek Seeds", "Ajwain Seeds", "Cumin Seeds", "Dill Seeds", "Coriander Seeds", "Black Seeds", "Chia Seeds", "Asaliya Seeds"],
+  },
+  {
+    title: "Oils & Fats",
+    items: ["Vegetable Oil", "Groundnut Oil", "Sunflower Oil", "Mustard Oil", "Black Sesame Oil", "Coconut Oil", "Almond Oil"],
+  },
+  {
+    title: "Sweeteners & Condiments",
+    items: ["Jaggery", "Cane Jaggery", "Honey", "Pickled Food"],
+  },
+  {
+    title: "Processed & Ready Items",
+    items: ["Frozen Food", "Ready To Eat Indian Food", "Frozen Veg Snacks & Paratha", "Papad", "Bread Rusk", "Sweet Biscuit", "Chocolate"],
+  },
+  {
+    title: "Other Food Products",
+    items: ["Starch of Maize (Corn)", "Guar Gum", "Psyllium Husk", "Makhana (Fox Nut)", "Blended Masala"],
   },
 ];
 
