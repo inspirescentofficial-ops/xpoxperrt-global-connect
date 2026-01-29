@@ -40,8 +40,9 @@ const About = () => {
               About XPOXPERRT
             </h1>
             <p className="text-xl text-primary-foreground/80 leading-relaxed">
-              A professionally managed export house from India, connecting quality 
-              manufacturers with international markets through compliance-driven trade practices.
+              A professionally managed export house based in India, specializing in the global 
+              supply of pharmaceutical finished formulations, surgical and medical products, 
+              and high-quality agro commodities.
             </p>
           </motion.div>
         </div>
