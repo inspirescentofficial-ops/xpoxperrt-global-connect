@@ -2,27 +2,9 @@ import { Layout } from "@/components/layout";
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
-import pharmaCategory from "@/assets/pharma-category.jpg";
-import medicalCategory from "@/assets/medical-category.jpg";
 import agroCategory from "@/assets/agro-category.jpg";
 
 const categories = [
-  {
-    title: "Pharmaceutical Exports",
-    description: "Complete range of finished pharmaceutical formulations including tablets, capsules, injectables, syrups, and APIs. All products sourced from WHO-GMP certified manufacturers with full documentation support.",
-    products: ["Tablets & Capsules", "Injectables", "Syrups & Suspensions", "APIs", "Nutraceuticals"],
-    image: pharmaCategory,
-    href: "/products/pharmaceutical",
-    alt: "Pharmaceutical export products from India",
-  },
-  {
-    title: "Medical & Surgical Exports",
-    description: "Comprehensive range of surgical instruments, medical devices, disposables, and hospital equipment. Quality-assured products for hospitals, clinics, and healthcare distributors worldwide.",
-    products: ["Surgical Instruments", "Medical Devices", "Disposables", "Hospital Equipment", "Diagnostic Kits"],
-    image: medicalCategory,
-    href: "/products/medical",
-    alt: "Medical and surgical supplies for export",
-  },
   {
     title: "Agro Commodities Exports",
     description: "Premium agricultural products including grains, spices, pulses, and oilseeds. Sourced from certified farms with strict quality control and export-grade packaging.",
