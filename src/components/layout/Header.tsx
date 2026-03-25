@@ -11,8 +11,6 @@ const navigation = [
     name: "Products",
     href: "/products",
     children: [
-      { name: "Pharmaceutical Exports", href: "/products/pharmaceutical" },
-      { name: "Medical & Surgical Exports", href: "/products/medical" },
       { name: "Agro Commodities Exports", href: "/products/agro" },
     ],
   },

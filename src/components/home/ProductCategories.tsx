@@ -1,25 +1,9 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
-import pharmaCategory from "@/assets/pharma-category.jpg";
-import medicalCategory from "@/assets/medical-category.jpg";
 import agroCategory from "@/assets/agro-category.jpg";
 
 const categories = [
-  {
-    title: "Pharmaceutical Exports",
-    description: "Quality-assured finished formulations including tablets, capsules, injectables, and APIs for regulated and semi-regulated markets.",
-    image: pharmaCategory,
-    href: "/products/pharmaceutical",
-    alt: "Pharmaceutical manufacturing and export from India",
-  },
-  {
-    title: "Medical & Surgical Exports",
-    description: "Comprehensive range of surgical instruments, medical devices, disposables, and hospital equipment for healthcare institutions worldwide.",
-    image: medicalCategory,
-    href: "/products/medical",
-    alt: "Medical and surgical supplies export warehouse",
-  },
   {
     title: "Agro Commodities Exports",
     description: "Premium quality grains, spices, pulses, and agricultural products sourced from certified Indian farms for international markets.",

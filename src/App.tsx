@@ -12,8 +12,6 @@ import ExportProcess from "./pages/ExportProcess";
 import GlobalReach from "./pages/GlobalReach";
 import Industries from "./pages/Industries";
 import WhyChooseUs from "./pages/WhyChooseUs";
-import PharmaceuticalProducts from "./pages/products/Pharmaceutical";
-import MedicalProducts from "./pages/products/Medical";
 import AgroProducts from "./pages/products/Agro";
 import NotFound from "./pages/NotFound";
 
@@ -30,8 +28,6 @@ const App = () => (
           <Route path="/" element={<Index />} />
           <Route path="/about" element={<About />} />
           <Route path="/products" element={<Products />} />
-          <Route path="/products/pharmaceutical" element={<PharmaceuticalProducts />} />
-          <Route path="/products/medical" element={<MedicalProducts />} />
           <Route path="/products/agro" element={<AgroProducts />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/export-process" element={<ExportProcess />} />
