@@ -12,8 +12,6 @@ import ExportProcess from "./pages/ExportProcess";
 import GlobalReach from "./pages/GlobalReach";
 import Industries from "./pages/Industries";
 import WhyChooseUs from "./pages/WhyChooseUs";
-import PharmaceuticalProducts from "./pages/products/Pharmaceutical";
-import MedicalProducts from "./pages/products/Medical";
 import AgroProducts from "./pages/products/Agro";
 import NotFound from "./pages/NotFound";
 
