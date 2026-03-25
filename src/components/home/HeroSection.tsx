@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight, Globe, Shield, Award } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroPharma from "@/assets/hero-pharma.jpg";
+import heroAgro from "@/assets/hero-agro.jpg";
 
 export const HeroSection = () => {
   return (
