@@ -6,12 +6,6 @@ import { Button } from "@/components/ui/button";
 
 const industries = [
   {
-    icon: Stethoscope,
-    title: "Hospitals & Healthcare Facilities",
-    description: "Pharmaceutical formulations, surgical instruments, medical devices, and hospital consumables for healthcare institutions worldwide.",
-    products: ["Medicines", "Surgical Equipment", "Disposables", "Diagnostic Devices"],
-  },
-  {
     icon: Store,
     title: "Distributors & Wholesalers",
     description: "Bulk supply partnerships with pharmaceutical and medical product distributors in international markets.",
@@ -22,12 +16,6 @@ const industries = [
     title: "Government & Institutional Buyers",
     description: "Tender-based supplies for government health programs, public hospitals, and institutional procurement.",
     products: ["Essential Medicines", "Medical Equipment", "Agricultural Products"],
-  },
-  {
-    icon: Building2,
-    title: "Pharmacy Chains",
-    description: "Retail pharmaceutical supply for pharmacy chains and retail healthcare networks.",
-    products: ["OTC Products", "Generic Medicines", "Health Supplements"],
   },
   {
     icon: Factory,
@@ -42,7 +30,6 @@ const industries = [
     products: ["All Categories", "Private Label", "Custom Sourcing"],
   },
 ];
-
 const Industries = () => {
   return (
     <Layout>
