@@ -16,10 +16,7 @@ const countries = [
 ];
 
 const productCategories = [
-  "Pharmaceutical Products",
-  "Medical & Surgical Supplies",
   "Agro Commodities",
-  "Multiple Categories"
 ];
 
 const Contact = () => {
