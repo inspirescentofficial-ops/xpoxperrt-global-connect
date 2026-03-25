@@ -3,8 +3,6 @@ import { Mail, Phone, MapPin, Linkedin, Twitter, Facebook } from "lucide-react";
 
 const footerLinks = {
   products: [
-    { name: "Pharmaceutical Exports", href: "/products/pharmaceutical" },
-    { name: "Medical & Surgical Exports", href: "/products/medical" },
     { name: "Agro Commodities Exports", href: "/products/agro" },
   ],
   company: [
@@ -34,8 +32,8 @@ export const Footer = () => {
               </span>
             </Link>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
-              Your trusted partner in global trade. Delivering quality pharmaceutical, 
-              medical, and agro products to markets worldwide.
+              Your trusted partner in global trade. Delivering quality agro 
+              products to markets worldwide.
             </p>
             <div className="flex gap-4">
               <a href="#" className="w-10 h-10 rounded-full bg-primary-foreground/10 flex items-center justify-center hover:bg-primary-foreground/20 transition-colors">
