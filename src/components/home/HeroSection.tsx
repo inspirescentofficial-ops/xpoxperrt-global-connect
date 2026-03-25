@@ -10,8 +10,8 @@ export const HeroSection = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src={heroPharma}
-          alt="XPOXPERRT pharmaceutical export quality control facility"
+          src={heroAgro}
+          alt="XPOXPERRT premium agro commodities export from India"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/80 to-primary/60" />
