@@ -1,7 +1,7 @@
 import { Layout } from "@/components/layout";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { ArrowRight, Building2, Stethoscope, Store, Building, Landmark, Factory } from "lucide-react";
+import { ArrowRight, Store, Building, Landmark, Factory } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const industries = [
