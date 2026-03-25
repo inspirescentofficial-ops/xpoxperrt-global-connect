@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 import { ArrowRight, Globe, Shield, Award } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import heroPharma from "@/assets/hero-pharma.jpg";
+import heroAgro from "@/assets/hero-agro.jpg";
 
 export const HeroSection = () => {
   return (
@@ -10,8 +10,8 @@ export const HeroSection = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src={heroPharma}
-          alt="XPOXPERRT pharmaceutical export quality control facility"
+          src={heroAgro}
+          alt="XPOXPERRT premium agro commodities export from India"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/80 to-primary/60" />
@@ -47,8 +47,7 @@ export const HeroSection = () => {
             className="text-lg md:text-xl text-primary-foreground/80 mb-8 leading-relaxed"
           >
             XPOXPERRT is a professionally managed export house from India, specializing in 
-            pharmaceutical formulations, medical supplies, and premium agro commodities 
-            for international markets.
+            premium agro commodities for international markets.
           </motion.p>
 
           <motion.div
