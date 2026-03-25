@@ -41,8 +41,7 @@ const About = () => {
             </h1>
             <p className="text-xl text-primary-foreground/80 leading-relaxed">
               A professionally managed export house based in India, specializing in the global 
-              supply of pharmaceutical finished formulations, surgical and medical products, 
-              and high-quality agro commodities.
+              supply of high-quality agro commodities.
             </p>
           </motion.div>
         </div>
