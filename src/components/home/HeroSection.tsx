@@ -47,8 +47,7 @@ export const HeroSection = () => {
             className="text-lg md:text-xl text-primary-foreground/80 mb-8 leading-relaxed"
           >
             XPOXPERRT is a professionally managed export house from India, specializing in 
-            pharmaceutical formulations, medical supplies, and premium agro commodities 
-            for international markets.
+            premium agro commodities for international markets.
           </motion.p>
 
           <motion.div
