@@ -3,8 +3,6 @@ import { Mail, Phone, MapPin, Linkedin, Twitter, Facebook } from "lucide-react";
 
 const footerLinks = {
   products: [
-    { name: "Pharmaceutical Exports", href: "/products/pharmaceutical" },
-    { name: "Medical & Surgical Exports", href: "/products/medical" },
     { name: "Agro Commodities Exports", href: "/products/agro" },
   ],
   company: [
