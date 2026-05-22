@@ -47,7 +47,7 @@ export const GlobalReachSection = () => {
             className="text-lg text-primary-foreground/80 mb-8 leading-relaxed"
           >
             With established trade relationships across Europe, Africa, Middle East, 
-            Southeast Asia, and Latin America, XPOXPERRT delivers quality products 
+            Southeast Asia, and Latin America, XPOXPERRTS delivers quality products 
             to regulated and emerging markets with precision and reliability.
           </motion.p>
 

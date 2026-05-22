@@ -37,7 +37,7 @@ const About = () => {
             className="max-w-3xl"
           >
             <h1 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
-              About XPOXPERRT
+              About XPOXPERRTS
             </h1>
             <p className="text-xl text-primary-foreground/80 leading-relaxed">
               A professionally managed export house based in India, specializing in the global 
@@ -64,7 +64,7 @@ const About = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  XPOXPERRT was founded with a singular vision: to become the trusted conduit 
+                  XPOXPERRTS was founded with a singular vision: to become the trusted conduit 
                   that delivers quality seamlessly into global markets. Based in India, we have 
                   built strong partnerships with WHO-GMP certified pharmaceutical manufacturers, 
                   medical device companies, and premium agricultural producers.
@@ -76,7 +76,7 @@ const About = () => {
                   diligently to ensure complete compliance for every shipment.
                 </p>
                 <p>
-                  Today, XPOXPERRT serves importers, distributors, hospitals, and institutional 
+                  Today, XPOXPERRTS serves importers, distributors, hospitals, and institutional 
                   buyers across 50+ countries, maintaining our commitment to quality, transparency, 
                   and reliable delivery.
                 </p>
