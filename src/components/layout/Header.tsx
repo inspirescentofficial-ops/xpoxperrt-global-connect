@@ -33,7 +33,7 @@ export const Header = () => {
         {/* Logo */}
         <Link to="/" className="flex items-center">
           <span className="text-2xl md:text-3xl font-bold text-primary" style={{ fontFamily: 'Comfortaa, cursive' }}>
-            Xpoxperrts
+            Xpoxperts
           </span>
         </Link>
 

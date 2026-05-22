@@ -28,7 +28,7 @@ export const Footer = () => {
           <div className="space-y-6">
             <Link to="/" className="flex items-center">
               <span className="text-2xl font-bold text-primary-foreground" style={{ fontFamily: 'Comfortaa, cursive' }}>
-                Xpoxperrts
+                Xpoxperts
               </span>
             </Link>
             <p className="text-primary-foreground/70 text-sm leading-relaxed">
@@ -100,7 +100,7 @@ export const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-secondary" />
-                <a href="mailto:connect.xpoxperrts@gmail.com" className="text-sm text-primary-foreground/70 hover:text-primary-foreground">
+                <a href="mailto:connect.xpoxperts@gmail.com" className="text-sm text-primary-foreground/70 hover:text-primary-foreground">
                   Email Us
                 </a>
               </li>
@@ -111,7 +111,7 @@ export const Footer = () => {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-primary-foreground/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-sm text-primary-foreground/60">
-            © 2023 XPOXPERRTS. All rights reserved.
+            © 2023 XPOXPERTS. All rights reserved.
           </p>
           <p className="text-sm text-primary-foreground/60">
             Trusted Partner in Global Trade

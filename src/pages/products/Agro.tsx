@@ -107,7 +107,7 @@ const AgroProducts = () => {
               <p>
                 India is one of the world's largest producers of agricultural commodities, 
                 known for premium Basmati rice, exotic spices, and high-quality pulses. 
-                XPOXPERRTS brings this agricultural excellence to global markets.
+                XPOXPERTS brings this agricultural excellence to global markets.
               </p>
               <p>
                 We source directly from certified farms and processing units, ensuring 
