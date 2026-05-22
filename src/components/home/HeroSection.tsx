@@ -11,7 +11,7 @@ export const HeroSection = () => {
       <div className="absolute inset-0">
         <img
           src={heroAgro}
-          alt="XPOXPERRTS premium agro commodities export from India"
+          alt="XPOXPERTS premium agro commodities export from India"
           className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-gradient-to-r from-primary/95 via-primary/80 to-primary/60" />
@@ -46,7 +46,7 @@ export const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-lg md:text-xl text-primary-foreground/80 mb-8 leading-relaxed"
           >
-            XPOXPERRTS is a professionally managed export house from India, specializing in 
+            XPOXPERTS is a professionally managed export house from India, specializing in 
             premium agro commodities for international markets.
           </motion.p>
 
