@@ -14,7 +14,7 @@ export const CTASection = () => {
           className="bg-gradient-to-br from-primary to-navy-light rounded-3xl p-8 md:p-12 lg:p-16 text-center"
         >
           <h2 className="text-3xl md:text-4xl font-bold text-primary-foreground mb-4">
-            Ready to Partner with XPOXPERRT?
+            Ready to Partner with XPOXPERRTS?
           </h2>
           <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto mb-8">
             Connect with our export specialists to discuss your requirements. 
@@ -36,7 +36,7 @@ export const CTASection = () => {
           </div>
 
           <div className="flex flex-col sm:flex-row items-center justify-center gap-6 text-primary-foreground/70">
-            <a href="mailto:connect.xpoxperrt@gmail.com" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
+            <a href="mailto:connect.xpoxperrts@gmail.com" className="flex items-center gap-2 hover:text-primary-foreground transition-colors">
               <Mail className="w-5 h-5" />
               Email Us
             </a>

@@ -45,7 +45,7 @@ const WhyChooseUs = () => {
             className="max-w-3xl"
           >
             <h1 className="text-4xl md:text-5xl font-bold text-primary-foreground mb-6">
-              Why Choose XPOXPERRT
+              Why Choose XPOXPERRTS
             </h1>
             <p className="text-xl text-primary-foreground/80 leading-relaxed">
               The trusted export partner that delivers quality, compliance, and 
