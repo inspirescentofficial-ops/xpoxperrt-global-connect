@@ -20,7 +20,7 @@ const productCategories = [
   },
   {
     title: "Fruits & Dry Fruits",
-    items: ["Banana (Fresh)", "Apple", "Grapes", "Raisins", "Dehydrated Bananas", "Walnut", "Almond", "Cashew", "Coconut"],
+    items: ["Banana (Fresh)", "Apple", "Grapes", "Mango (Banganapalli)", "Mango (Totapuri)", "Mango (Alphonso - Hapus)", "Mango (Dasheri)", "Mango (Langra)", "Mango (Chausa)", "Mango (Zardalu)", "Mango (Kesar)", "Raisins", "Dehydrated Bananas", "Walnut", "Almond", "Cashew", "Coconut"],
   },
   {
     title: "Vegetables (Fresh / Dried / Frozen)",
